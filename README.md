@@ -1,5 +1,13 @@
-# chillingtrailchatbot
+# Chilling Trail Chat Bot
 Trail running information LINE chat bot by Chilling Trail
+
+# Sample .env file
+```
+listenIP = 127.0.0.1
+listenPort = 60001
+channelAccessToken = 92834792739487239423
+channelSecret = 485934587357934
+```
 
 # Deployment
 * nodejs version 8.2.1
