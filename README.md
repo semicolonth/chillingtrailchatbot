@@ -14,3 +14,10 @@ channelSecret = 485934587357934
 * npm install -g pm2
 * npm install
 * pm2 server.js
+
+# Command List
+```
+!racelist [<period code>]
+!raceinfo <race code>
+!raceplan <race code> [<category>] [<target time>]
+```
